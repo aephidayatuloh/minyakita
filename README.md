@@ -1,2 +1,2 @@
 # Minyakita
-Simulasi Uji Hipotesis Kasus Minyakita dengan data bangkitan
+Simulasi uji hipotesis kasus Minyakita dengan data bangkitan menggunakan metode Statistik.
