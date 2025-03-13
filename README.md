@@ -1,2 +1,2 @@
-# minyakita
-Simulasi Uji Hipotesis Kasus Minyakita
+# Minyakita
+Simulasi Uji Hipotesis Kasus Minyakita dengan data bangkitan
