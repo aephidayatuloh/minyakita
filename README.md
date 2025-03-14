@@ -32,8 +32,6 @@ Hasil analisis akan disajikan dalam bentuk statistik deskriptif yang akan memban
 
 [![Mengungkap Akurasi Takaran Minyakita 1000ml dengan Uji Hipotesis t-Test | Analisis Data](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=iyFrgngWVII)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iyFrgngWVII" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Kontribusi 
 Jika Anda ingin berkontribusi pada proyek ini, silakan buat pull request atau ajukan issue untuk berdiskusi tentang perubahan yang diusulkan.
 
