@@ -4,7 +4,8 @@
 Proyek ini bertujuan untuk menguji apakah produk Minyakita memiliki takaran yang sesuai dengan label 1000ml. Dengan menggunakan metode uji hipotesis statistik t-test, kita dapat mengevaluasi keakuratan takaran yang dijanjikan oleh produk ini. Meski data yang digunakan adalah hasil simulasi, proyek ini memberikan pemahaman mendalam tentang cara melakukan uji statistik yang dapat diterapkan pada data nyata.
 
 ## Data Simulasi  
-Data yang digunakan dalam proyek ini adalah hasil pembangkitan acak (simulasi), bukan data real. Meskipun demikian, proses analisis dan metodologi yang digunakan memberikan pemahaman mendalam tentang cara melakukan uji statistik yang dapat diterapkan pada data nyata.
+Data yang digunakan dalam proyek ini adalah hasil pembangkitan acak (simulasi), bukan data real. Meskipun demikian, proses analisis dan metodologi yang digunakan memberikan pemahaman mendalam tentang cara melakukan uji statistik yang dapat diterapkan pada data nyata. 
+Tersedia 2 jenis struktur data: `sample.csv` dan `sample_group.csv`. Hal ini untuk menunjukan variasi data yang dapat digunakan untuk melakukan uji-t dua sample saling bebas. 
 
 ## Struktur Proyek  
 Proyek ini terbagi dalam beberapa bagian utama:  
