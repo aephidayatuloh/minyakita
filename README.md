@@ -10,7 +10,7 @@ Tersedia 2 jenis struktur data: `sample.csv` dan `sample_group.csv`. Hal ini unt
 ## Struktur Proyek  
 Proyek ini terbagi dalam beberapa bagian utama:  
 
-1. **Data Simulasi**: Menghasilkan data simulasi untuk eksperimen.  
+1. **Data Simulasi**: Penjelasan data simulasi untuk eksperimen.  
 2. **Analisis Data**: Melakukan analisis statistik menggunakan t-test.  
 3. **Kesimpulan**: Menarik kesimpulan dari hasil uji hipotesis.  
 
