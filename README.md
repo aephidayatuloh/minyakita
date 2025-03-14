@@ -28,6 +28,11 @@ source("minyakita-test.R")
 ## Hasil
 Hasil analisis akan disajikan dalam bentuk statistik deskriptif yang akan membantu Anda memahami apakah takaran Minyakita sesuai dengan yang dijanjikan.
 
+## Video Tutorial 
+
+[![Video Title]](https://www.youtube.com/watch?v=iyFrgngWVII)
+
+
 ## Kontribusi 
 Jika Anda ingin berkontribusi pada proyek ini, silakan buat pull request atau ajukan issue untuk berdiskusi tentang perubahan yang diusulkan.
 
